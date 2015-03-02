@@ -7,4 +7,4 @@ I rewrited tinrtgu's code from here: http://www.kaggle.com/c/avazu-ctr-predictio
 
 It takes about three hours to process the data with 8 epochs.
 
-Arguments are: 'train file', 'test file', 'submision file'.
+Arguments are: 'train file', 'test file', 'submision file'. It should be compiled with -std=c++11.
